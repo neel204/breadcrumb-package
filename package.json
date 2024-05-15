@@ -1,0 +1,28 @@
+{
+  "name": "breadcrumb-package",
+  "version": "1.0.0",
+  "description": "This breadcrumb package seamlessly integrates with search engine optimization (SEO) strategies through structured schema implementation. By leveraging schema markup, it enhances a website's technical configuration, content relevance, and link popularity, resulting in improved visibility and accessibility in search engine results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neel204/seo-breadcrums.git"
+  },
+  "keywords": [
+    "seo",
+    "breadcrums",
+    "search"
+  ],
+  "author": "Neel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neel204/seo-breadcrums/issues"
+  },
+  "homepage": "https://github.com/neel204/seo-breadcrums#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "tailwindcss": "^3.4.3"
+  }
+}
